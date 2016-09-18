@@ -1,0 +1,26 @@
+//Maya Preference 2015 (Release 1)
+//
+//
+windowPref -topLeftCorner 225 150 -widthHeight 250 400 -maximized false outlinerPanel1Window;
+windowPref -topLeftCorner 250 200 -widthHeight 700 400 -maximized false hyperGraphPanel1Window;
+windowPref -topLeftCorner 250 200 -widthHeight 660 400 -maximized false graphEditor1Window;
+windowPref -topLeftCorner 250 200 -widthHeight 660 400 -maximized false dopeSheetPanel1Window;
+windowPref -topLeftCorner 250 200 -widthHeight 660 400 -maximized false clipEditorPanel1Window;
+windowPref -topLeftCorner 250 200 -widthHeight 524 470 -maximized false devicePanel1Window;
+windowPref -topLeftCorner 597 587 -widthHeight 700 400 -maximized false hyperShadePanel1Window;
+windowPref -topLeftCorner 250 200 -widthHeight 700 400 -maximized false dynPaintScriptedPanelWindow;
+windowPref -topLeftCorner 250 200 -widthHeight 550 562 -maximized false blindDataEditor1Window;
+windowPref -topLeftCorner 14 0 -widthHeight 1262 982 -maximized true MayaWindow;
+windowPref -topLeftCorner 18 749 -widthHeight 546 350 -maximized false OptionBoxWindow;
+windowPref -topLeftCorner 165 610 -widthHeight 665 500 -maximized false PreferencesWindow;
+windowPref -topLeftCorner 58 467 -widthHeight 894 535 -maximized false scriptEditorPanel1Window;
+windowPref -topLeftCorner 14 0 -widthHeight 1000 660 -maximized false renderViewWindow;
+windowPref -topLeftCorner 265 455 -widthHeight 440 160 -maximized false commandSearchAndReplaceWnd;
+windowPref -topLeftCorner 32 395 -widthHeight 550 500 -maximized false projectWindow;
+windowPref -topLeftCorner 240 809 -widthHeight 475 325 -maximized false hyperGraphPanel2Window;
+windowPref -topLeftCorner 14 0 -widthHeight 475 325 -maximized false polyTexturePlacementPanel1Window;
+windowPref -topLeftCorner 63 683 -widthHeight 500 580 -maximized false AddAttrWin;
+windowPref -topLeftCorner 265 455 -widthHeight 358 153 -maximized false LayerEditorQuickEditWindow;
+windowPref -topLeftCorner 265 455 -widthHeight 510 600 -maximized false PaintEffectsBrushWindow;
+windowPref -topLeftCorner 265 455 -widthHeight 450 320 -maximized false NewFeatureHighlightWnd;
+windowPref -topLeftCorner 265 455 -widthHeight 450 411 -maximized false pluginManagerWindow;
